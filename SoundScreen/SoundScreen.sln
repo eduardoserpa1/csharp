@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundScreen", "SoundScreen\SoundScreen.csproj", "{48F33C9D-EDCE-41E6-8E34-1C7428DFA3C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48F33C9D-EDCE-41E6-8E34-1C7428DFA3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F33C9D-EDCE-41E6-8E34-1C7428DFA3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F33C9D-EDCE-41E6-8E34-1C7428DFA3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F33C9D-EDCE-41E6-8E34-1C7428DFA3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFD966F5-BE9A-419C-9BA2-47C235A52F63}
+	EndGlobalSection
+EndGlobal
